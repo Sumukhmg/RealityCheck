@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "628197242248",
+    "project_id": "realitycheck-paslabs",
+    "storage_bucket": "realitycheck-paslabs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628197242248:android:4311e311b2e3e94f37b63d",
+        "android_client_info": {
+          "package_name": "com.example.reality_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628197242248-5k1s0e2sc0b3ipdpjo47igejkub6figr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reality_check",
+            "certificate_hash": "9a850a56da6a54a532e504bbdb322b97964d6a2c"
+          }
+        },
+        {
+          "client_id": "628197242248-2lb8p1cbqtmelkdfujeb5mjft46okkuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIerr8cEjkecDMivwrgBDAlLfqcOSR40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628197242248-2lb8p1cbqtmelkdfujeb5mjft46okkuh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628197242248-04sombc049avis771h4siqr005uh61cr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realityCheck"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628197242248:android:a153ca8c9a4dbe3e37b63d",
+        "android_client_info": {
+          "package_name": "com.realitycheck.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628197242248-2lb8p1cbqtmelkdfujeb5mjft46okkuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIerr8cEjkecDMivwrgBDAlLfqcOSR40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628197242248-2lb8p1cbqtmelkdfujeb5mjft46okkuh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628197242248-04sombc049avis771h4siqr005uh61cr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realityCheck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
